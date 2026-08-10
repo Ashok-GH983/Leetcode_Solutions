@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -41,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
