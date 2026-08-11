@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -58,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 ## Sorting
