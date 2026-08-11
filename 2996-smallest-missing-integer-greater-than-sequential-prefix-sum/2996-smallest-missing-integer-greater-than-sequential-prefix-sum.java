@@ -10,18 +10,18 @@ class Solution {
                 break;
             }
         }
-        List<Integer> list=new ArrayList<>();
+       int freq[]=new int[51];
         for(int i=0;i<nums.length;i++)
         {
-            list.add(nums[i]);
+           freq[nums[i]]++;
         }
-        for(int i=0;i<nums.length;i++)
+        for(int i=sum;i<51;i++)
         {
-            if(!list.contains(sum))
+            if(freq[sum]==0)
             {
                 return sum;
             }
-            sum+=1;
+            sum++;
         }
         return sum;
     }
