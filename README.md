@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -87,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
