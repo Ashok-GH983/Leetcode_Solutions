@@ -11,30 +11,34 @@ class Solution {
             int u=prerequisites[i][0];
             int v=prerequisites[i][1];
             graph.get(v).add(u);
-            indegree[u]++;
         }
-        Queue<Integer> queue=new LinkedList<>();
+        int state[]=new int[numCourses];
         for(int i=0;i<numCourses;i++)
         {
-            if(indegree[i]==0)
+            if(!dfs(i,state,graph))
             {
-                queue.add(i);
+                return false;
             }
         }
-        int count=0;
-        while(!queue.isEmpty())
+        return true;
+    }
+    public static boolean dfs(int node,int[] state,List<List<Integer>> graph)
+    {
+        state[node]=1;
+        for(int n:graph.get(node))
         {
-            int x=queue.poll();
-            count++;
-            for(int n:graph.get(x))
+            if(state[n]==1)
             {
-                indegree[n]--;
-                if(indegree[n]==0)
-                {
-                    queue.add(n);
+                return false;
+            }
+            if(state[n]==0)
+            {
+                if(!dfs(n,state,graph)){
+                    return false;
                 }
             }
         }
-        return count==numCourses;
+        state[node]=2;
+        return true;
     }
 }
