@@ -1,8 +1,4 @@
 class Solution {
-    public static boolean checkBit(int n,int pos)
-    {
-        return (n&(1<<pos))!=0;
-    }
     public int longestSubsequence(int[] nums) {
        int xor = 0;
         boolean hasNonZero = false;
