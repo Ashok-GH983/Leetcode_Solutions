@@ -52,25 +52,11 @@ class Solution {
             {
                 if(grid[i][j]==1)
                 {
-                    count+=dfs(grid,i,j,n,m);
+                    count++;
                 }
             }
         }
         return count;
     }
-    public static int  dfs(int[][] grid,int row,int col,int n,int m)
-    {
-        grid[row][col]=0;
-        int area=1;
-        for(int k=0;k<4;k++)
-        {
-            int nr=row+dr[k];
-            int nc=col+dc[k];
-            if(nr<n-1 && nr>=1 && nc<m-1&& nc>=1 && grid[nr][nc]==1)
-            {
-                area+=dfs(grid,nr,nc,n,m);
-            }
-        }
-        return area;
-    }
+    
 }
