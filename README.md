@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
