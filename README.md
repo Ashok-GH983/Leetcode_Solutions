@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0841-keys-and-rooms](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0841-keys-and-rooms](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0841-keys-and-rooms](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
