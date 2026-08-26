@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1927-sum-game](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
