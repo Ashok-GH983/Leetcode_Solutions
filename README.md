@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
