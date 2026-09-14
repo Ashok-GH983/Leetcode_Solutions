@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
