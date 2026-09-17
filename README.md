@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
