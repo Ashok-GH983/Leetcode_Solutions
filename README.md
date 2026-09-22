@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Topological Sort
 |  |
@@ -265,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
