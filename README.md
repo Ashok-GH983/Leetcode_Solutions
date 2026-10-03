@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0709-to-lower-case) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
