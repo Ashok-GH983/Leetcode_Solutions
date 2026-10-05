@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
+| [0856-score-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
