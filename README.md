@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
