@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |
