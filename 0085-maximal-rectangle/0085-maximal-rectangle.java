@@ -31,7 +31,7 @@ class Solution {
                     arr[j]=0;
                 }
                 else{
-                    arr[j]=arr[j]+digit;
+                    arr[j]++;
                 }
             }
             max=Math.max(max,largestRectangle(arr));
