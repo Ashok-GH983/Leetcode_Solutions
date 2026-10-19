@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0207-course-schedule) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0752-open-the-lock) |
 ## Greedy
 |  |
