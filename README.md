@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0127-word-ladder) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0112-path-sum) |
