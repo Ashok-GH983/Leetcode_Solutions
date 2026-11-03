@@ -4,11 +4,9 @@ class Solution {
         for(int ele:nums)
         {
             max=Math.max(max,ele);
+            sum+=ele;
         }
-        for(int ele:nums)
-        {
-            sum+=max-ele;
-        }
-        return sum;
+        
+        return nums.length*max-sum;
     }
 }
