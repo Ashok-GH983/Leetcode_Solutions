@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
