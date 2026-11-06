@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
