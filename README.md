@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashok-GH983/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Topological Sort
 |  |
